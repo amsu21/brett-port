@@ -1,0 +1,30 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Credit",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "Photoshop",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "Javascript", "amount": "85" },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "75"
+    }
+  ]
+}
