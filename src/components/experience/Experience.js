@@ -7,7 +7,7 @@ import experienceData from '../../data/experience.json'
 
 const Experience = () => {
   return (
-    <Section title="Experience">
+    <Section title="SERVICES">
       <div className="experience-content">
         <ul className="experience-list">
           {experienceData.experience.reverse().map((exp) => (
@@ -26,7 +26,7 @@ const Experience = () => {
             }}
           >
             <p style={{ textAlign: 'center' }}>
-              Further in-depth experience pre 2020 can be found on my{' '}
+            Click HERE to get a copy of all 3 credit reports for $1 to view what {' '}
               <a
                 href="https://www.linkedin.com/in/mjigalin/"
                 target="_blank"
@@ -37,7 +37,6 @@ const Experience = () => {
                   cursor: 'pointer',
                 }}
               >
-                LinkedIn
               </a>
               .
             </p>
