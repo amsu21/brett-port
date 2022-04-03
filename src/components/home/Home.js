@@ -26,18 +26,14 @@ const Home = () => {
               onLoad={() => setImageLoaded(true)}
             />
             <h1 className="greeting-text">
-              Wassup, I'm <span className="name">Brett Jenkins</span>.{' '}
-              <span className="wave-emoji" role="img" aria-label="waving hand">
-                👋
-              </span>
+              Mr. Jenk <span className="name">Consulting</span>{' '}
             </h1>
             <h1 className="greeting-text">
               <Typewriter
                 options={{
                   strings: [
-                    'I like to fix credit.',
-                    'I love learning about NFTs.',
-                    'I love meeting new people.',
+                    'Lets Succed Together',
+                    'I like to fix credit.'
                   ],
                   autoStart: true,
                   loop: true,
