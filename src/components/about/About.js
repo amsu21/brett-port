@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import Typewriter from 'typewriter-effect'
-import { Link } from 'react-scroll'
+// import { Link } from 'react-scroll'
 import { Fade } from 'react-reveal'
 import Section from '../section/Section'
 import Skills from '../skills/Skills'
@@ -23,15 +23,13 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a software engineer focusing on Front-End web and emerging
-              tech such as VR, AR and Blockchain.
+              At a young age I was always the person that never went with the crowd I was always and I mean always an independent thinker. Fast forward to now I am 22 and have dove into the world of financial literacy and that trait from a young kid serves me well . I aim to change the lack of financial literacy for my community. One of my favorite quotes I've heard is that "conversation changes compensation". The most important factor is changing and restructuring the way that we have been "taught" finances.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with UE5, JavaScript, React, Vue, Node,
-              Apollo and Gatsby.
+              The thing that I came to realize is that we were not taught finances at all. School taught us nothing about credit scores other than pay your bills on time. But realizing that it isn't anybody else's job but our own to educate ourselves.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -58,29 +56,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              Since 2015 - I've spent my time seeking and learning new
-              technologies and forms of digital expression. This has led to me
-              working on some amazing world-class{' '}
-              <Link
-                className="textLink"
-                to="projects"
-                spy={true}
-                smooth={true}
-                duration={500}
-              >
-                projects
-              </Link>
-              , worked at some{' '}
-              <Link
-                className="textLink"
-                to="experience"
-                spy={true}
-                smooth={true}
-                duration={500}
-              >
-                amazing places
-              </Link>
-              , and worked with some great people.
+            My goal is to educate my community on financial literacy to obtain a better quality of life. Whether that be through personal credit, business credit, manufactured spending, travel hacking, or just learning simple extra ways to bring income. Whether your goal be to just put extra money in your pocket, quit your job.
             </p>
             <div className="location-wrapper">
               <svg
