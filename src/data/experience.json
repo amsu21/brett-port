@@ -4,12 +4,12 @@
       "id": 0,
       "link": "https://www.8secondz.com/",
       "company": "8secondz",
-      "title": "Creative Lead - Web & App Teams",
+      "title": "Lorem Ipsum",
       "dateFrom": "June 2020",
       "dateTo": "July 2021",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Nam consectetur nunc eget nisi tincidunt sagittis."
       ],
       "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
       "logoheight": 80,
@@ -34,9 +34,9 @@
     },
     {
       "id": 2,
-      "link": "https://www.cactuscan.com",
+      "link": "https://www.mrjenkconsulting.com/post/credit-monitoring",
       "company": "CactusCan",
-      "title": "Creative Lead",
+      "title": "Financial Stress Causes Heart Disease",
       "dateFrom": "2016",
       "dateTo": "Current",
       "info": [
