@@ -20,11 +20,6 @@
       "id": 4,
       "skillName": "Node.js",
       "amount": "80"
-    },
-    {
-      "id": 5,
-      "skillName": "REST",
-      "amount": "75"
     }
   ]
 }
