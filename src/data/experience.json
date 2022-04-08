@@ -2,7 +2,7 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
+      "link": "",
       "company": "8secondz",
       "title": "Lorem Ipsum",
       "dateFrom": "June 2020",
@@ -18,7 +18,7 @@
     },
     {
       "id": 1,
-      "link": "https://www.psykinetic.com",
+      "link": "",
       "company": "Psykinetic",
       "title": "Lorem Ipsum",
       "dateFrom": "August 2020",
