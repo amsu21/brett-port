@@ -32,11 +32,11 @@ const Navbar = () => {
             SERVICES
           </Link>
         </div>
-        {/* <div className="navlink-wrapper">
+        <div className="navlink-wrapper">
           <Link to="projects" spy={true} smooth={true} duration={500}>
-            SERVICES
+            CREDIT REPAIR PROGRAMS
           </Link>
-        </div> */}
+        </div>
         <div className="navlink-wrapper">
           <Link to="contact" spy={true} smooth={true} duration={500}>
             CONTACT
