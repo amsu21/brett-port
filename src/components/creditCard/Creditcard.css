@@ -1,0 +1,47 @@
+.credit-link {
+    text-decoration: none;
+    height: 100%;
+    cursor: default;
+}
+
+.credit-card-wrapper {
+    height: 100%;
+    transition: 0.2s;
+}
+
+.credit-card {
+    position: relative;
+    background-color: #3b4353;
+    border-radius: 5px;
+    align-items: center;
+    min-height: 158px;
+    transition: 0.2s;
+    height: 100%;
+    cursor: pointer;
+}
+
+.credit-card-wrapper:hover .credit-card {
+    transform: translateY(-10px);
+    background-color: #474f63;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 599px) {
+    .experience-card-wrapper:hover .experience-card {
+      transform: translateY(0);
+      background-color: #3b4353;
+    }
+    .experience-card-bottom {
+      padding: 65px 15px 20px 15px;
+    }
+  }
