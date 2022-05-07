@@ -9,6 +9,39 @@
                 "Build positive payment history (35% of your credit score).",
                 "Have utility bills report to your Experian credit report (No negative things will report)"
             ]
+        },
+        {
+            "id": 1,
+            "link": "",
+            "title": "Extra Debit Card",
+            "info": [
+                "The first debit card that builds credit",
+                "Builds positive payment history (35% of your credit score)",
+                "24/7 Premium Support",
+                "Connects with any bank and No Credit Check"
+            ]
+        },
+        {
+            "id": 2,
+            "link": "",
+            "title": "CreditMyRent",
+            "info": [
+                "Get started for $1",
+                "Gain positive tradeline to your Equifax and Transunion credit reports",
+                "Have rent payments report to your credit report and potentially add up to 2 years of payment history instantly"
+            ]
+        },
+        {
+            "id": 3,
+            "link": "",
+            "title": "Self",
+            "info": [
+                "Start for only $9",
+                "Build positive payment history (35% of your credit score).",
+                "Builds your credit score and save money at the same time",
+                "Adds a positive tradeline to your report",
+                "Reports to main 3 credit reporting agencies (Experian, Equifax, Transunion)"
+            ]
         }
     ]
 }
