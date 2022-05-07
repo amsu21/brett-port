@@ -32,3 +32,5 @@ const Credit = () => {
         </Section>
     )
 }
+
+export default Credit
