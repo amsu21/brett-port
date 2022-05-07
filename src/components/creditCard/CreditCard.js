@@ -27,6 +27,11 @@ const CreditCard = ({ credit }) => {
                                     : experience.colourPrimary,
                                 }}
                             ></div>
+                            <div className="credit-card-bottom">
+                                <div>
+                                    <h2>{titlle}</h2>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
