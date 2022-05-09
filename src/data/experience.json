@@ -4,7 +4,7 @@
       "id": 0,
       "link": "",
       "company": "8secondz",
-      "title": "Lorem Ipsum",
+      "title": "Premium",
       "dateFrom": "June 2020",
       "dateTo": "July 2021",
       "info": [
@@ -23,12 +23,15 @@
       "id": 1,
       "link": "",
       "company": "Psykinetic",
-      "title": "Lorem Ipsum",
+      "title": "Basic",
       "dateFrom": "August 2020",
       "dateTo": "Current",
       "info": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Nam consectetur nunc eget nisi tincidunt sagittis."
+        "3 Bureau Inquiry Removal",
+        "Personal Information Clean Up",
+        "24/7 Access to Client Portal",
+        "Dispute up to 5 Negative Accounts (Bankrupcy Not Included)",
+        "Payment Plan Available"
       ],
       "stack": ["C++", "UE4", "VR", "Web Design"],
       "logowidth": 80,
@@ -39,12 +42,14 @@
       "id": 2,
       "link": "https://www.mrjenkconsulting.com/post/credit-monitoring",
       "company": "CactusCan",
-      "title": "Lorem Ipsum",
+      "title": "Inquiry Sweep",
       "dateFrom": "2016",
       "dateTo": "Current",
       "info": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Nam consectetur nunc eget nisi tincidunt sagittis."
+        "3 Bureau Inquiry Removal",
+        "Personal Information Clean Up",
+        "24/7 Access to Client Portal",
+        "Dispute of all Inquiries (not attached to open accounts)"
       ],
       "stack": ["React", "Marketing", "Design", "UI/UX"],
       "logowidth": 80,
