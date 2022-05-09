@@ -41,7 +41,7 @@ const MobileNav = ({ toggleMobilenavVisible, mobilenavVisible }) => {
               duration={500}
               onClick={toggleMobilenavVisible}
             >
-              EXPERIENCE
+              SERVICES
             </Link>
           </div>
           <div className="mobilenavlink">
@@ -53,7 +53,7 @@ const MobileNav = ({ toggleMobilenavVisible, mobilenavVisible }) => {
               duration={500}
               onClick={toggleMobilenavVisible}
             >
-              PROJECTS
+              CREDIT
             </Link>
           </div>
           <div className="mobilenavlink">
