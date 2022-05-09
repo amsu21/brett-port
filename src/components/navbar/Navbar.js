@@ -33,7 +33,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navlink-wrapper">
-          <Link to="projects" spy={true} smooth={true} duration={500}>
+          <Link to="credit" spy={true} smooth={true} duration={500}>
             CREDIT REPAIR PROGRAMS
           </Link>
         </div>
