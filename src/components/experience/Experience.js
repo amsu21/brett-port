@@ -5,6 +5,7 @@ import { Fade } from 'react-reveal'
 import Section from '../section/Section'
 import ExperienceCard from '../experienceCard/ExperienceCard'
 import experienceData from '../../data/experience.json'
+import Button from '@material-ui/core/Button'
 
 const Experience = () => {
   return (
@@ -41,6 +42,9 @@ const Experience = () => {
               </a>
               .
             </p>
+            <Button className='go-button' type="button">
+              Get Started
+            </Button>
           </div>
         </Fade>
       </div>
