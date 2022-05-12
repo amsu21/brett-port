@@ -3,6 +3,7 @@ import './credit.css'
 import { Fade } from 'react-reveal'
 import Section from '../section/Section'
 import { CreditCard } from '@material-ui/icons'
+import creditData from '../../data/credit.json'
 
 
 const Credit = () => {
