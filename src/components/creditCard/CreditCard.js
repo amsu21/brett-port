@@ -39,3 +39,5 @@ const CreditCard = ({ credit }) => {
         </a>
     )
 }
+
+export default CreditCard
