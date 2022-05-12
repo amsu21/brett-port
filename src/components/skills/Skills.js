@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import IsVisible from 'react-is-visible'
 import { Fade } from 'react-reveal'
-import { skills } from '../../data/skills.json'
+import skills from '../../data/skills.json'
 import { useContainerDimensions } from '../../hooks'
 
 const Skills = () => {
