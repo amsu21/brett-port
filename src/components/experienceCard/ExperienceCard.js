@@ -53,7 +53,7 @@ const ExperienceCard = ({ experience }) => {
                 {info.map((point, idx) => (
                   <li key={`${company}-point-${idx}`}>{point}</li>
                 ))}
-              </ul>
+              </ul> 
             </div>
             <div className="experience-card-tech">
               <ul>
