@@ -1,5 +1,5 @@
 import React from 'react'
-import './credit.css'
+import './Credit.css'
 import { Fade } from 'react-reveal'
 import Section from '../section/Section'
 import { CreditCard } from '@material-ui/icons'
