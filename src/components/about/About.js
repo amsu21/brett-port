@@ -4,7 +4,6 @@ import Typewriter from 'typewriter-effect'
 // import { Link } from 'react-scroll'
 import { Fade } from 'react-reveal'
 import Section from '../section/Section'
-import Skills from '../skills/Skills'
 
 const About = () => {
   return (
@@ -77,7 +76,6 @@ const About = () => {
             </div>
           </div>
         </Fade>
-        <Skills />
       </div>
     </Section>
   )

@@ -8,7 +8,7 @@ import creditData from '../../data/credit.json'
 
 const Credit = () => {
     return (
-        <Section title="CREDIT REPARI PROGRAMS">
+        <Section title="CREDIT REPAIR PROGRAMS">
             <div className="credit-content">
                 <ul className="credit-list">
                     {creditData.credit.reverse().map((exp) => (
